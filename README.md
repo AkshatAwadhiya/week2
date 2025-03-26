@@ -1,4 +1,4 @@
-# Bootstrap-JavaScript-MERN-Taskss
+# JavaScript-MERN-Taskss
 # Info
 1) Name: Akshat Awadhiya
 2) Reg No: 22BEY10050
